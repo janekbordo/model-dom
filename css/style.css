@@ -1,0 +1,15 @@
+#formularz{
+    
+    width: 500px;
+    height:500px;
+    background-color:springgreen;
+    padding: 10px;
+}
+
+input{
+    margin:5px;
+}
+
+label{
+    display: block;
+}
